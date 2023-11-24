@@ -1,0 +1,14 @@
+
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+}
+
+#navSupport {
+ justify-content: end;
+}
